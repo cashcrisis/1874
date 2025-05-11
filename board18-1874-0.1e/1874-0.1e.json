@@ -1,0 +1,452 @@
+{
+  "bname": "1874",
+  "version": "0.1e",
+  "author": "Sam",
+  "board": {
+    "imgLoc": "images/1874-0.1e/Map.png",
+    "xStart": 0,
+    "orientation": "P",
+    "xStep": 50,
+    "yStart": 50,
+    "yStep": 87
+  },
+  "market": {
+    "imgLoc": "images/1874-0.1e/Market.png",
+    "xStart": 24,
+    "xStep": 76.8,
+    "yStart": 72,
+    "yStep": 460.79999999999995
+  },
+  "tray": [
+    {
+      "type": "tile",
+      "tName": "Yellow Tiles",
+      "imgLoc": "images/1874-0.1e/Yellow.png",
+      "xStart": 24,
+      "yStart": 24,
+      "xStep": 150,
+      "yStep": 150,
+      "xSize": 100,
+      "ySize": 116,
+      "tile": [
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 3,
+          "dups": 6
+        },
+        {
+          "rots": 6,
+          "dups": 6
+        },
+        {
+          "rots": 6,
+          "dups": 4
+        },
+        {
+          "rots": 6,
+          "dups": 8
+        },
+        {
+          "rots": 3,
+          "dups": 7
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 3,
+          "dups": 6
+        },
+        {
+          "rots": 6,
+          "dups": 4
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        }
+      ]
+    },
+    {
+      "type": "tile",
+      "tName": "Green Tiles",
+      "imgLoc": "images/1874-0.1e/Green.png",
+      "xStart": 24,
+      "yStart": 24,
+      "xStep": 150,
+      "yStep": 150,
+      "xSize": 100,
+      "ySize": 116,
+      "tile": [
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 3,
+          "dups": 5
+        },
+        {
+          "rots": 6,
+          "dups": 5
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 3,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 5
+        }
+      ]
+    },
+    {
+      "type": "tile",
+      "tName": "Brown Tiles",
+      "imgLoc": "images/1874-0.1e/Brown.png",
+      "xStart": 24,
+      "yStart": 24,
+      "xStep": 150,
+      "yStep": 150,
+      "xSize": 100,
+      "ySize": 116,
+      "tile": [
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 2,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 3,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 6,
+          "dups": 2
+        },
+        {
+          "rots": 3,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 1,
+          "dups": 3
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 6,
+          "dups": 1
+        },
+        {
+          "rots": 3,
+          "dups": 1
+        }
+      ]
+    },
+    {
+      "type": "btok",
+      "tName": "Tokens",
+      "imgLoc": "images/1874-0.1e/Tokens.png",
+      "xStart": 0,
+      "xSize": 30,
+      "xStep": 30,
+      "yStart": 0,
+      "ySize": 30,
+      "yStep": 30,
+      "token": [
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 6,
+          "flip": true
+        },
+        {
+          "dups": 1,
+          "flip": true
+        },
+        {
+          "dups": 20,
+          "flip": true
+        },
+        {
+          "dups": 20,
+          "flip": true
+        },
+        {
+          "dups": 20,
+          "flip": true
+        },
+        {
+          "dups": 1,
+          "flip": true
+        },
+        {
+          "dups": 1,
+          "flip": true
+        },
+        {
+          "dups": 1,
+          "flip": true
+        },
+        {
+          "dups": 1,
+          "flip": true
+        },
+        {
+          "dups": 1,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "type": "mtok",
+      "tName": "Tokens",
+      "imgLoc": "images/1874-0.1e/Tokens.png",
+      "xStart": 0,
+      "xSize": 30,
+      "xStep": 30,
+      "yStart": 0,
+      "ySize": 30,
+      "yStep": 30,
+      "token": [
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        },
+        {
+          "flip": true
+        }
+      ]
+    }
+  ],
+  "links": []
+}
