@@ -5,8 +5,7 @@ Players are investors who buy and sell assets, run companies, and scheme to make
 [link to BoardGameGeek entry](https://boardgamegeek.com/boardgame/400781/1874)
 # Goals
 1874 aims to let 3 to 6 players spend around 6 hours combining the 2-5-10 share company sizes of 1817 with 1841's cross company investment and 18Ireland's mergers.
-Companies have new financial tools such as bonds and warrants to raise cash to stay ahead of the train rush.
-Loans are available for players and companies until the banks fail then they must find creative ways to avoid bankruptcy.
+Companies have new financial tools such as warrants to raise cash and stay ahead of the train rush.
 ## License
 Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
